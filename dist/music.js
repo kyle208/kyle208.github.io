@@ -31,7 +31,7 @@ const ap = new APlayer({
         name: '风筝误',
         artist: '刘珂矣',
         url: 'http://up.mcyt.net/?down/46644.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/96.jpg',
+        cover: 'https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2016946340,2781587743&fm=58&bpow=422&bpoh=577',
       }
     ]
 });
