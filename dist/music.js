@@ -16,6 +16,12 @@ const ap = new APlayer({
         cover: "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2263725527,2286386301&fm=58&bpow=882&bpoh=890",
       },
 	  {
+        name: '知否知否',
+        artist: "胡夏&郁可唯",
+        url: "http://www.ytmp3.cn/down/56872.mp3",
+        cover: "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=4052813340,4045644314&fm=85&app=63&f=JPEG?w=121&h=75&s=35A47D370B31569496CD36EF03007020",
+      },
+	  {
         name: 'smile',
         artist: "艾薇儿",
         url: "http://www.ytmp3.cn/down/51089.mp3",
