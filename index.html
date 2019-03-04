@@ -32,6 +32,8 @@
 
   
 
+<link rel="stylesheet" href="\assets\css\APlayer.min.css" class="aplayer-style-marker">
+<script src="\assets\js\APlayer.min.js" class="aplayer-script-marker"></script>
 </head>
 </html>
 <body>
@@ -41,6 +43,9 @@
       
 <div class="overlay" style="background: #4d4d4d"></div>
 <div class="intrude-less">
+<link rel="stylesheet" href="APlayer.min.css">
+<div id="aplayer"></div>
+<script src="APlayer.min.js"></script>
 	<header id="header" class="inner">
 		<a href="/" class="profilepic">
 			<img src="/1/touxiang.jpg" class="js-avatar">
@@ -303,14 +308,22 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>1.我的第一篇文章，我不知道该写些什么。就随便记录一下</p>
+        <p>1.我的第一篇文章，我不知道该写些什么。就随便记录一下<br>
+        <div id="aplayer-FHqYMitj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+			  <script>
+				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"开启新征程","author":"阿鲲","url":"http://www.ytmp3.cn/down/58738.mp3","pic":"http://imge.kugou.com/stdmusic/240/20190201/20190201161642944399.jpg"},{"title":"光年之外","author":"邓紫棋","url":"http://www.ytmp3.cn/down/55362.mp3","pic":"https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2263725527,2286386301&fm=58&bpow=882&bpoh=890"}]};
+				  options.element = document.getElementById("aplayer-FHqYMitj");
+				  var ap = new APlayer(options);
+			    window.aplayers || (window.aplayers = []);
+				  window.aplayers.push(ap);
+			  </script><br>
         
           <a class="article-more-a" href="/2019/03/02/我的第一篇文章/#more">more >></a>
         
       
 
       
-    </div>
+    </p></div>
     <div class="article-info article-info-index">
       
       
