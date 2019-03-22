@@ -4,6 +4,12 @@ const ap = new APlayer({
     autoplay: true,
     audio: [
       {
+        name: "深渊的等待",
+        artist: '刘惜君',
+        url: 'http://www.170mv.com/kw/so.sycdn.kuwo.cn/resource/n1/6/67/1900877863.mp3',
+        cover: 'https://p.ssl.qhimg.com/dmfd/260_200_100/t018e6b7a1396196f97.jpg?size=500x333',
+      },  
+	  {
         name: "开启新征程",
         artist: '阿鲲',
         url: 'http://www.ytmp3.cn/down/58738.mp3',
