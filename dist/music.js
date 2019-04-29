@@ -7,7 +7,7 @@ const ap = new APlayer({
         name: "隐",
         artist: 'New One Studio',
         url: '/dist/music/1.mp3',
-        cover: 'http://imge.kugou.com/stdmusic/240/20190201/20190201161642944399.jpg',
+        cover: 'https://p.ssl.qhimg.com/dmfd/260_200_100/t018e6b7a1396196f97.jpg?size=500x333',
       },
       {
         name: "深渊的等待",
