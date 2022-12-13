@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkyleweb=self.webpackChunkkyleweb||[]).push([[5134],{7833:e=>{e.exports=JSON.parse('{"permalink":"/http://kyle.kylenb.top/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":14,"nextPage":"/http://kyle.kylenb.top/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
