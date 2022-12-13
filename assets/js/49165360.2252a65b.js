@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkyleweb=self.webpackChunkkyleweb||[]).push([[1963],{6932:e=>{e.exports=JSON.parse('{"label":"\u517c\u5bb9","permalink":"/http://kyle.kylenb.top/blog/tags/\u517c\u5bb9","allTagsPath":"/http://kyle.kylenb.top/blog/tags","count":6}')}}]);
